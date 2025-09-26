@@ -72,7 +72,7 @@ O dashboard abrirá no seu navegador padrão.
 ## Segue alguns prints do meu projeto:
 
 
-![Logo do projeto](https://github.com/analiviaabrahao/projeto-analisededados-gestoresUBS/blob/README.md/Dashboard-UBS.png)
+![Logo do projeto](https://github.com/analiviaabrahao/dashboard-vendas-empresadebeleza/blob/main/dash1.png)
 
 ![Logo do projeto](https://github.com/analiviaabrahao/projeto-analisededados-gestoresUBS/blob/README.md/Dashboard-UBS.png)
 
