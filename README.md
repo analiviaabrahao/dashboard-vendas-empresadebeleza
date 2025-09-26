@@ -73,7 +73,6 @@ O dashboard abrirá no seu navegador padrão.
 
 
 ![Logo do projeto](https://github.com/analiviaabrahao/dashboard-vendas-empresadebeleza/blob/main/dash1.png)
-
-![Logo do projeto](https://github.com/analiviaabrahao/projeto-analisededados-gestoresUBS/blob/README.md/Dashboard-UBS.png)
-
-
+![Logo do projeto](https://github.com/analiviaabrahao/dashboard-vendas-empresadebeleza/blob/main/dash2.png)
+![Logo do projeto](https://github.com/analiviaabrahao/dashboard-vendas-empresadebeleza/blob/main/dash3.png)
+![Logo do projeto](https://github.com/analiviaabrahao/dashboard-vendas-empresadebeleza/blob/main/dash5.png)
