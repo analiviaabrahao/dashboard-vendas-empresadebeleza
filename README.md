@@ -5,6 +5,7 @@ Este projeto é um dashboard interativo de vendas desenvolvido em Python usando 
 O objetivo é demonstrar habilidades em análise de dados, visualização interativa, tratamento e boas práticas de organização de projeto.
 
 ## 📂 Estrutura do projeto
+````
 finVendas/
 │
 ├─ app.py                  # Código principal do dashboard
@@ -18,7 +19,7 @@ finVendas/
 ├─etl_belezadata.ipynb  #Tratamento dos dados
 ├─OLAP_belezadata.ipynb #Algumas Consultas que fiz 
 └─ README.md              
-
+```
 ## 📊 Funcionalidades do dashboard
 
 - Receita por categoria de produto
