@@ -1,0 +1,9 @@
+##O comando é pip install -r requirements.txt
+
+streamlit
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv
+altair
+matplotlib
