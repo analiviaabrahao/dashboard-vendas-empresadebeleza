@@ -20,8 +20,8 @@ finVendas/
 ├─OLAP_belezadata.ipynb #Algumas Consultas que fiz 
 └─ README.md              
 ````
-##
-## 📊 Funcionalidades do dashboard
+
+## 📊 Funcionalidades do meu dashboard
 
 - Receita por categoria de produto
 
@@ -67,9 +67,8 @@ Para iniciar localmente:
 ```
 streamlit run app.py
 ```
+O dashboard abrirá no seu navegador padrão.
+
 ## Segue alguns prints do meu projeto:
 
 
-
-O dashboard abrirá no seu navegador padrão.
-Segue algumas imagens do meu dashboard:
