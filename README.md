@@ -1,11 +1,11 @@
-##🛍️ Dashboard de Vendas para uma Empresa de Beleza
+## 🛍️ Dashboard de Vendas para uma Empresa de Beleza
 
 Este projeto é um dashboard interativo de vendas desenvolvido em Python usando Streamlit e Altair, conectado a um banco de dados PostgreSQL. Ele permite visualizar métricas como receita por categoria, ticket médio, vendas por canal, top produtos, entre outros.
 
-O objetivo é demonstrar habilidades em análise de dados, visualização interativa e boas práticas de organização de projeto.
+O objetivo é demonstrar habilidades em análise de dados, visualização interativa, tratamento e boas práticas de organização de projeto.
 
-📂 Estrutura do projeto
-Dashboardvendas/
+## 📂 Estrutura do projeto
+finVendas/
 │
 ├─ app.py                  # Código principal do dashboard
 ├─ requirements.txt        # Dependências do Python
@@ -15,25 +15,25 @@ Dashboardvendas/
 ├─clientes.csv
 ├─produtos.csv
 ├─vendas.csv
-├─etl_belezadata.ipynb  #Tratamento dos ddos
+├─etl_belezadata.ipynb  #Tratamento dos dados
 ├─OLAP_belezadata.ipynb #Algumas Consultas que fiz 
 └─ README.md              
 
-##📊 Funcionalidades do dashboard
+## 📊 Funcionalidades do dashboard
 
-Receita por categoria de produto
+- Receita por categoria de produto
 
-Ticket médio por canal de vendas
+-  médio por canal de vendas
 
-Receita mensal
+- Receita mensal
 
-Quantidade de itens vendidos por estado
+- Quantidade de itens vendidos por estado
 
-Top 10 produtos mais vendidos
+- Top 10 produtos mais vendidos
 
-Comparativo de vendas por canal
+- Comparativo de vendas por canal
 
-##⚙️ Pré-requisitos
+## ⚙️ Pré-requisitos
 
 Python 3.8 ou superior
 
@@ -41,30 +41,33 @@ PostgreSQL (se quiser rodar com o banco real)
 
 Bibliotecas Python listadas em requirements.txt
 
-Instale as dependências com:
-
+# Instale as dependências com:
+```
 pip install -r requirements.txt
-
-##📝 Configuração do ambiente
+```
+## 📝 Configuração do ambiente
 
 Crie um arquivo .env na raiz do projeto baseado no .env.example:
-
+```
 DB_USER=seu_usuario
 DB_PASSWORD=sua_senha
 DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=nome_do_banco
-
+```
 Se quiser rodar o dashboard sem banco, use os dados de exemplo:
 ```
 clients.csv vendas.csv produtos.csv
 ```
-🚀 Rodando o dashboard
+#  Rodando o dashboard
 
 Para iniciar localmente:
 ```
 streamlit run app.py
 ```
+## Segue alguns prints do meu projeto:
+
+
 
 O dashboard abrirá no seu navegador padrão.
 Segue algumas imagens do meu dashboard:
