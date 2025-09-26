@@ -19,7 +19,8 @@ finVendas/
 ├─etl_belezadata.ipynb  #Tratamento dos dados
 ├─OLAP_belezadata.ipynb #Algumas Consultas que fiz 
 └─ README.md              
-```
+````
+##
 ## 📊 Funcionalidades do dashboard
 
 - Receita por categoria de produto
